@@ -1,3 +1,6 @@
 [submodule "EntityExtractor"]
 	path = EntityExtractor
 	url = https://github.com/mySoul8012/EntityExtractor.git
+[submodule "SpellingCorrection"]
+	path = SpellingCorrection
+	url = https://github.com/mySoul8012/SpellingCorrection.git
