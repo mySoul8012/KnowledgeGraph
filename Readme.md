@@ -18,3 +18,10 @@
 (uie_env) D:\Productmap>
 
 ````
+
+
+# 文件说明
+
+EntityExtractor 文件夹是基于 UIE 推理服务的项目，进入这个目录后，是基于 BERT + UIE 的推理服务。
+
+SpellingCorrection 文件夹是基于 BERT 的错字识别的项目，进入这个目录后，是基于 BERT 的错字识别的项目，错字识别服务。
