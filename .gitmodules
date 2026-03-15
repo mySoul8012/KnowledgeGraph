@@ -1,0 +1,3 @@
+[submodule "EntityExtractor"]
+	path = EntityExtractor
+	url = https://github.com/mySoul8012/EntityExtractor.git
